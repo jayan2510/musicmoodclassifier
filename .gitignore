@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.sqlite3
+.env
+.env/
+venv/
+mood-env/
+.vscode/
+models/mood_classifier_bert/
+data/mood_lyrics_cleaned.csv
+data/mood_lyrics_dataset.csv
+data/prediction_log.csv
+src/results/
+.streamlit/
+logs/
